@@ -3,7 +3,7 @@
   "scripts": {
     "test": "vitest --watch=false --reporter=verbose"
   },
-  "devDependencies": {
-    "vitest": "^0.26.3"
+  "dependencies": {
+    "vitest": "^0.30.1"
   }
 }
